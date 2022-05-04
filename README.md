@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @PandoPilot
 - 👀 I’m interested in smart contract.
 
-![psr](https://user-images.githubusercontent.com/96759127/166613934-536ebe41-f62a-44a6-b1cd-62a58b5d36bf.png)
+PSR Logo 32x32:
+
+![psr_32x32](https://user-images.githubusercontent.com/96759127/166615643-90ac3a81-13ae-4b1a-a645-b9897c35e312.png)
