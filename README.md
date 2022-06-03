@@ -21,3 +21,7 @@ PAN Logo 256x256:
 PAN Logo 32x32:
 
 ![PAN-32x32](https://user-images.githubusercontent.com/96759127/170000100-d627b4dd-65b6-4e6b-b55e-ee77cb0d0012.png)
+
+PAN Logo 400x400:
+
+![pan-400x400](https://user-images.githubusercontent.com/96759127/171784052-503ddce4-e8ac-4d4e-9ecb-f99935137bc9.png)
